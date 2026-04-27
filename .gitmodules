@@ -1,0 +1,3 @@
+[submodule "extern/cuVSLAM"]
+	path = extern/cuVSLAM
+	url = https://github.com/nvidia-isaac/cuVSLAM.git
