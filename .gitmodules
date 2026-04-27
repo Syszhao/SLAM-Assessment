@@ -1,3 +1,6 @@
 [submodule "extern/cuVSLAM"]
 	path = extern/cuVSLAM
 	url = https://github.com/nvidia-isaac/cuVSLAM.git
+[submodule "extern/DROID-SLAM"]
+	path = extern/DROID-SLAM
+	url = https://github.com/princeton-vl/DROID-SLAM.git
