@@ -4,3 +4,6 @@
 [submodule "extern/DROID-SLAM"]
 	path = extern/DROID-SLAM
 	url = https://github.com/princeton-vl/DROID-SLAM.git
+[submodule "extern/MAC-VO"]
+	path = extern/MAC-VO
+	url = https://github.com/MAC-VO/MAC-VO.git
