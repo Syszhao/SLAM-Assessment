@@ -7,3 +7,6 @@
 [submodule "extern/MAC-VO"]
 	path = extern/MAC-VO
 	url = https://github.com/MAC-VO/MAC-VO.git
+[submodule "extern/mega-sam"]
+	path = extern/mega-sam
+	url = https://github.com/mega-sam/mega-sam.git
